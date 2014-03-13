@@ -1,0 +1,9 @@
+<?php
+return $arr= array (
+  'DB_HOST' => 'localhost',
+  'DB_NAME' => 'wxs',
+  'DB_USER' => 'aaa',
+  'DB_PWD' => 'aaa',
+  'DB_PORT' => '3306',
+  'DB_PREFIX' => 'weixin_',
+);
